@@ -1,7 +1,7 @@
 # conversor-de-moeda
 Desenvolvido através da Imersão Dev da Alura 2022.
 
-
+![conversor](https://user-images.githubusercontent.com/92475408/159099633-c1ed3da6-8658-4f23-889d-c341242f9ff6.png)
 
 
 # CONVERSOR DE MOEDAS
