@@ -1,0 +1,67 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  height: 100vh;
+  background-image: url(https://www.colunatech.com.br/wp-content/uploads/2021/06/hgn.png);
+  background-color: #ffffff;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+  height: 80vh;
+  background-image: url(https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/5c38a8c92dbe57f7f51133863bd9671b);
+  opacity: 0.8;
+  border-radius: 1rem;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+  font-size: 30pt;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  font-family: sans-serif;
+}
+
+input {
+  width: 330px;
+  height: 30px;
+  font-size: 15px;
+  text-align: center;
+  border: solid 2px #34f304;
+  border-radius: 4px;
+  color: black;
+  margin-bottom: 10px;
+}
+
+label {
+  color: #ffffff;
+  font-size: 30pt;
+}
+
+button {
+  margin-top: 12px;
+  padding: 6px 40px;
+  background: #3f6d25;
+
+  color: #ffffff;
+  border-radius: 0.3rem;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+h3 {
+  color: black;
+  font-size: 30px;
+  position: relative;
+  bottom: 200px;
+  right: 150px;
+}
